@@ -102,6 +102,7 @@ C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesP
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\res\drawable-xxxhdpi\profile_generic.png
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\R.cs.flag
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\uploadflags.txt
+C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\GroceriesPlatformApp.Android.csprojResolveAssemblyReference.cache
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\bin\Debug\GroceriesPlatformApp.Android.dll.mdb
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\ischo\source\repos\GroceriesPlatformApp\GroceriesPlatformApp\GroceriesPlatformApp.Android\obj\Debug\android\assets\GroceriesPlatformApp.Android.dll.mdb

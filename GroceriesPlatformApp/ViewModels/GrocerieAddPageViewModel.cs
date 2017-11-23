@@ -2,7 +2,6 @@
 using System.Net;
 using Xamarin.Forms;
 using System.Collections.Generic;
-using System.Diagnostics;
 
 namespace GroceriesPlatformApp.ViewModels
 {
@@ -12,6 +11,7 @@ namespace GroceriesPlatformApp.ViewModels
         public GroceriesItem Item { get; set; }
 
         private Dictionary<string, string[]> _validation = new Dictionary<string, string[]>();
+
         public Dictionary<string, string[]> Validation
         {
             get { return _validation; }
@@ -35,7 +35,6 @@ namespace GroceriesPlatformApp.ViewModels
             get { return quantity; }
             set { SetProperty(ref quantity, value); }
         }
-
 
 
         public override void Subscribe()

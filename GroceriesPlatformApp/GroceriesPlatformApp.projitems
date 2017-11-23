@@ -22,6 +22,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GrocerieAddPageViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GrocerieDetailPageViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\GroceriesPageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IValidationRule.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ResponseViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\BaseViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\GrocerieAddPage.xaml.cs">

@@ -66,7 +66,8 @@ namespace GroceriesPlatformApp.Services
                     }
                     else
                     {
-                        return new ResponseViewModel<GroceriesItem> { StatusCode = response.StatusCode, Item = null, Validation = JsonConvert.DeserializeObject<Dictionary<string, string[]>>(readAsString) };
+                        
+                        return new ResponseViewModel<GroceriesItem> { StatusCode = response.StatusCode, Item = null, Validation = JsonConvert.DeserializeObject<Dictionary<string, string[]>>(readAsString)};
                     }
                 }
             }
